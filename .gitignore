@@ -1,0 +1,16 @@
+.gitignore.swp
+
+logs/*
+
+src/__pycache__
+src/resources/__pycache__
+
+token.pickle
+
+src/resources/credentials
+src/lib/
+src/resources/lib
+src/resources/client_secrets.json
+src/resources/credentials.json
+src/resources/mycreds.txt
+src/resources/settings.yaml

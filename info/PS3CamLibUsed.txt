@@ -1,0 +1,2 @@
+Capture software: libv4l2
+Python camera lib: python-opencv
